@@ -1,0 +1,2 @@
+# Alexa-voice-and-manual-controlled-smart-switch-board-with-feedback
+The main objective of this project is to control any Electrical appliances with both voice commands, Alexa app and with manual switches from anywhere in the world.  The project aim is to make our works done sitting at a place with a single voice command. We can also check the state of appliances whether it is turned on or off in our mobile at anytime and anywhere in the world. You can also control the appliances with manual switches when the internet connection is not alive.
