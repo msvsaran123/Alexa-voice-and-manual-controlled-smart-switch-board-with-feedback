@@ -93,7 +93,11 @@ https://youtu.be/OC9wYhv6juM
 ![image](https://user-images.githubusercontent.com/79988029/109826139-83826e80-7c60-11eb-92aa-f62ef421e982.png)
 
 6.After all these steps copy the code given below and go to Arduino IDE and paste it. Add the necessary Libraries in the Software which are provided in the code.
+
+
 *code starts from here*
+
+
 //This code is written by MADUGULA SAI VENKATA SARAN
 
 int device1 = 0;
@@ -471,7 +475,11 @@ void setTargetTemperatureOnServer(String deviceId, String value, String scale) {
  
  webSocket.sendTXT(databuf);
 }
+
+
 //This code is written by MADUGULA SAI VENKATA SARAN
+
+
 *code ends here*
 
 7.Now again go to your Sinric account and copy the API Key, Device Ids and paste them at the places where it is asked in the code respectively at their appropriate positions.
@@ -494,11 +502,14 @@ SD3 of NodeMCU      -         Switch 4
  
 
 Conclusion
-                               Now all set. Your Smart Switch Board is ready. It is portable, can be used at any place, easy to carry anywhere. It is dead cheaper than any other Smart Switch Boards available in the market.
+
+   Now all set. Your Smart Switch Board is ready. It is portable, can be used at any place, easy to carry anywhere. It is dead cheaper than any other Smart Switch Boards available in the market.
 You can control it in three ways
+
 1.	With your voice commands, just like “turn on Switch One” to turn on first switch.
 2.	From your Alexa App in Devices section from any where in the world, if internet connection is present.
 3.	Whether the internet connection is alive or not, it doesn’t matter. You can control the Appliances with switches on the Smart Switch Board at any time.
+
                                                                                                                                                     By
                                                                                                                                                     Madugula Sai Venkata Saran
 
