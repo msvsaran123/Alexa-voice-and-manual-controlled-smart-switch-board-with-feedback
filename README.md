@@ -12,8 +12,10 @@ The main objective of this project is to control any Electrical appliances with 
 
 Components required
 Hardware
+
 1.Nodemcu board:  
-                                        We will upload our code into this development board. It is more compatible than any other development boards available. 
+
+  We will upload our code into this development board. It is more compatible than any other development boards available. 
  ![image](https://user-images.githubusercontent.com/79988029/109825254-a5c7bc80-7c5f-11eb-8a7b-4e5e3a4b41eb.png)
 
 Buy it from here 
@@ -32,35 +34,44 @@ Buy it from here
 https://www.hnhcart.com/products/reg1117-ic?_pos=2&_sid=39426c2de&_ss=r
 
 2. 4 channel relay board:
-                                         It acts as a switch. It can be controlled with little dc voltage to control high voltage appliances. 
+   It acts as a switch. It can be controlled with little dc voltage to control high voltage appliances. 
  ![image](https://user-images.githubusercontent.com/79988029/109825356-c1cb5e00-7c5f-11eb-8232-d46ef7fad5e9.png)
 
 https://www.hnhcart.com/products/4-channel-5v-relay-module?_pos=11&_sid=959d29598&_ss=r
 
 3. Jumper wires:
-                                        As its name, it is used to connect pins of nodemcu and relay board as well as switches.
+   As its name, it is used to connect pins of nodemcu and relay board as well as switches.
  ![image](https://user-images.githubusercontent.com/79988029/109825391-cb54c600-7c5f-11eb-9a7b-a8324ec33abd.png)
 
 4. Switches, Sockets and 8-way Gang box:
-                                        There is nothing to talk about it. These are familiar to everyone. These are available in every electrical shop.
+  There is nothing to talk about it. These are familiar to everyone. These are available in every electrical shop.
      ![image](https://user-images.githubusercontent.com/79988029/109825461-dc9dd280-7c5f-11eb-935b-da0d72d90892.png)
 ![image](https://user-images.githubusercontent.com/79988029/109825511-e6273a80-7c5f-11eb-9fe1-eabb2217bc12.png)
 ![image](https://user-images.githubusercontent.com/79988029/109825567-f4755680-7c5f-11eb-9ad2-a4a34e7c2fc8.png)
 
 5. Any Alexa device: 
-                                      Alexa is a voice assistant made by Amazon.
-                Some Alexa devices are mentioned here. You can buy any of these for this project:
-1.	Alexa Echo Dot:
+      Alexa is a voice assistant made by Amazon.
+      Some Alexa devices are mentioned here. You can buy any of these for this project:
+Alexa Echo Dot:
  https://www.amazon.in/Echo-Dot-3rd-Gen/dp/B07PFFMP9P/ref=sr_1_1?dchild=1&keywords=alexa+devices&qid=1610024316&sr=8-1
 https://www.amazon.in/Echo-Dot-4th-Gen-Blue/dp/B084KSRFXJ/ref=sr_1_2?dchild=1&keywords=alexa+devices&qid=1610024411&sr=8-2
 
-2.	Alexa Echo Portable:
+Alexa Echo Portable:
 https://www.amazon.in/Echo-Input-Portable-Smart-Speaker/dp/B07YP9WYFN/ref=sr_1_10?dchild=1&keywords=alexa+devices&qid=1610024411&sr=8-10
 Software
-  Arduino Software (IDE): It is an open-source Software (IDE) which makes it easy for us to write           code and upload it to the Arduino boards. It runs on Windows, Linux etc.
-  Sinric Account : Sinric acts as bridge between our switch board and Alexa server. You have to go to Sinric.com and create your own account. Do not share its API keys and device ids with anyone.
+
+
+Arduino Software (IDE):
+
+It is an open-source Software (IDE) which makes it easy for us to write code and upload it to the Arduino boards. It runs on Windows, Linux etc.
+
+Sinric Account :
+
+Sinric acts as bridge between our switch board and Alexa server. You have to go to Sinric.com and create your own account. Do not share its API keys and device ids with anyone.
 Code
-                    To upload the program, follow the below steps:
+                   
+To upload the program, follow the below steps:
+
 1.	You should add Esp8266 to your Arduino IDE. To do this please watch this video
 https://youtu.be/OC9wYhv6juM
 2.Go to Sinric.com and login with your account.
