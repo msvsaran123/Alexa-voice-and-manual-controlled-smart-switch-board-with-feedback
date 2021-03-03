@@ -509,7 +509,8 @@ You can control it in three ways
 1.	With your voice commands, just like “turn on Switch One” to turn on first switch.
 2.	From your Alexa App in Devices section from any where in the world, if internet connection is present.
 3.	Whether the internet connection is alive or not, it doesn’t matter. You can control the Appliances with switches on the Smart Switch Board at any time.
-
                                                                                                                                                     By
                                                                                                                                                     Madugula Sai Venkata Saran
 
+
+                                                                                                                                                    
